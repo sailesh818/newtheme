@@ -1,6 +1,6 @@
 /*
  Theme Name:        iBlog Mark-1
- Theme URI:         https://example.com/fabled-sunset
+ Theme URI:         https://ourfoodsrecipes.com
  Description:       Hi there this is really gooing to be cool developing this site and thank you.
  Version:           1.0.0
  Author:            Sailesh Kr Yadav
@@ -11,3 +11,7 @@
  License:           GNU General Public License v2.0 or later
  License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  */
+
+ h1{
+    color: red;
+ }
